@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010 Express for Windows Phone
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RufusAndTheMagicMushrooms", "WindowsPhoneGame2\WindowsPhoneGame2\RufusAndTheMagicMushrooms.csproj", "{0A1DCC7F-2DF0-48D5-A9BD-96C752579AE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsPhoneGame2Content", "WindowsPhoneGame2\WindowsPhoneGame2Content\WindowsPhoneGame2Content.contentproj", "{521D2B7A-5043-441F-A5EA-DFFD82E2ADCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A1DCC7F-2DF0-48D5-A9BD-96C752579AE4}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{0A1DCC7F-2DF0-48D5-A9BD-96C752579AE4}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{0A1DCC7F-2DF0-48D5-A9BD-96C752579AE4}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{0A1DCC7F-2DF0-48D5-A9BD-96C752579AE4}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{0A1DCC7F-2DF0-48D5-A9BD-96C752579AE4}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{0A1DCC7F-2DF0-48D5-A9BD-96C752579AE4}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{521D2B7A-5043-441F-A5EA-DFFD82E2ADCE}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{521D2B7A-5043-441F-A5EA-DFFD82E2ADCE}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

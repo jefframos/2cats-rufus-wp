@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{0A1DCC7F-2DF0-48D5-A9BD-96C752579AE4}</ProjectGuid>
+    <ProjectTypeGuids>{6D335F3A-9D43-41b4-9D22-F6F17C4BE596};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">Windows Phone</Platform>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>RufusAndTheMagicMushrooms</RootNamespace>
+    <AssemblyName>RufusAndTheMagicMushrooms</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <XnaFrameworkVersion>v4.0</XnaFrameworkVersion>
+    <XnaPlatform>Windows Phone</XnaPlatform>
+    <XnaProfile>Reach</XnaProfile>
+    <XnaCrossPlatformGroupID>9308acbe-30c8-4ad5-bb99-84085f230935</XnaCrossPlatformGroupID>
+    <XnaOutputType>Game</XnaOutputType>
+    <XnaRefreshLevel>1</XnaRefreshLevel>
+    <WPTombstoneEnabled>false</WPTombstoneEnabled>
+    <XapFilename>$(AssemblyName).xap</XapFilename>
+    <SilverlightManifestTemplate>Properties\AppManifest.xml</SilverlightManifestTemplate>
+    <XnaWindowsPhoneManifestTemplate>Properties\WMAppManifest.xml</XnaWindowsPhoneManifestTemplate>
+    <TileImage>Background.png</TileImage>
+    <TileTitle>Rufus and the Magic Mushrooms</TileTitle>
+    <SupportedCultures>
+    </SupportedCultures>
+    <ApplicationIcon>Game.ico</ApplicationIcon>
+    <Thumbnail>PhoneGameThumb.png</Thumbnail>
+    <GameStartupType>WindowsPhoneGame2.Game1</GameStartupType>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|Windows Phone' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Windows Phone\Debug</OutputPath>
+    <DefineConstants>DEBUG;TRACE;WINDOWS_PHONE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoStdLib>true</NoStdLib>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <XnaCompressContent>false</XnaCompressContent>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|Windows Phone' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Windows Phone\Release</OutputPath>
+    <DefineConstants>TRACE;WINDOWS_PHONE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoStdLib>true</NoStdLib>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <XnaCompressContent>false</XnaCompressContent>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Xna.Framework" />
+    <Reference Include="Microsoft.Xna.Framework.Game" />
+    <Reference Include="Microsoft.Xna.Framework.Graphics" />
+    <Reference Include="Microsoft.Xna.Framework.GamerServices" />
+    <Reference Include="Microsoft.Xna.Framework.Input.Touch" />
+    <Reference Include="mscorlib" />
+    <Reference Include="System" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Net" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="framework\entity\DefaultEntity.cs" />
+    <Compile Include="framework\graphics\particles\Emitter.cs" />
+    <Compile Include="framework\GUI\button\ButtonModel.cs" />
+    <Compile Include="framework\GUI\button\SimpleButton.cs" />
+    <Compile Include="framework\layer\LayerManager.cs" />
+    <Compile Include="framework\primitives\Drawable.cs" />
+    <Compile Include="framework\storage\StorageManager.cs" />
+    <Compile Include="game\entity\DefaultModel.cs" />
+    <Compile Include="game\entity\enemies\CloudEye.cs" />
+    <Compile Include="game\entity\enemies\Goomba.cs" />
+    <Compile Include="game\entity\enemies\Hells.cs" />
+    <Compile Include="game\entity\enemies\JackO.cs" />
+    <Compile Include="game\entity\objects\behaviours\TimeStarBehaviour.cs" />
+    <Compile Include="game\entity\objects\behaviours\RainStarBehaviour.cs" />
+    <Compile Include="game\entity\objects\behaviours\MagneticStarBehaviour.cs" />
+    <Compile Include="game\entity\RufusEffects.cs" />
+    <Compile Include="game\entity\enemies\Bomb1.cs" />
+    <Compile Include="game\entity\enemies\BerryBomb.cs" />
+    <Compile Include="game\entity\objects\behaviours\BigodonMushroomBehaviour.cs" />
+    <Compile Include="game\entity\objects\behaviours\JumpBolinhaBehaviour.cs" />
+    <Compile Include="game\entity\objects\behaviours\QuickBolinhaBehaviour.cs" />
+    <Compile Include="game\entity\objects\behaviours\RedBolinhaBehaviour.cs" />
+    <Compile Include="game\entity\objects\behaviours\GiantMushroomBehaviour.cs" />
+    <Compile Include="game\entity\objects\behaviours\MediumMushroomBehaviour.cs" />
+    <Compile Include="game\entity\objects\behaviours\GreenBolinhaBehaviour.cs" />
+    <Compile Include="game\entity\objects\behaviours\SimpleStarBehaviour.cs" />
+    <Compile Include="game\entity\objects\behaviours\SmallMushroomBehaviour.cs" />
+    <Compile Include="game\entity\objects\Bolinha.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="game\entity\objects\BolinhaQuicante.cs" />
+    <Compile Include="game\entity\objects\BolinhaVermelha.cs" />
+    <Compile Include="game\entity\objects\BolinhaPulante.cs" />
+    <Compile Include="game\entity\objects\Star.cs" />
+    <Compile Include="game\entity\objects\DefaultMooshroom.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="game\entity\rufus\behaviours\AbstractBehaviour.cs" />
+    <Compile Include="game\entity\rufus\behaviours\RyufusBehaviour.cs" />
+    <Compile Include="game\entity\rufus\behaviours\MarioBehaviour.cs" />
+    <Compile Include="game\entity\rufus\behaviours\FatBehaviour.cs" />
+    <Compile Include="game\entity\rufus\behaviours\SuperRufusBehaviour.cs" />
+    <Compile Include="game\entity\rufus\behaviours\NormalBehaviour.cs" />
+    <Compile Include="game\entity\rufus\Rufus.cs" />
+    <Compile Include="framework\graphics\spritesheet\AnimationStruct.cs" />
+    <Compile Include="framework\graphics\spritesheet\SpriteSheet.cs" />
+    <Compile Include="framework\layer\ILayer.cs" />
+    <Compile Include="framework\layer\StaticLayer.cs" />
+    <Compile Include="framework\layer\Layer.cs" />
+    <Compile Include="framework\screen\AbstractScreen.cs" />
+    <Compile Include="framework\screen\ScreenManager.cs" />
+    <Compile Include="framework\staticObject\StaticObject.cs" />
+    <Compile Include="framework\utils\PointUtil.cs" />
+    <Compile Include="framework\utils\Trace.cs" />
+    <Compile Include="game\entity\rufus\RufusModel.cs" />
+    <Compile Include="game\factory\GUI\ArrowButton.cs" />
+    <Compile Include="game\factory\GUI\ButtonFactory.cs" />
+    <Compile Include="game\factory\GUI\BackButton.cs" />
+    <Compile Include="game\factory\GUI\HelpButton.cs" />
+    <Compile Include="game\factory\GUI\InfoButton.cs" />
+    <Compile Include="game\factory\GUI\TwitterButton.cs" />
+    <Compile Include="game\factory\GUI\FBButton.cs" />
+    <Compile Include="game\factory\GUI\StatisticsButton.cs" />
+    <Compile Include="game\factory\GUI\IncrementalLabel.cs" />
+    <Compile Include="game\factory\GUI\InGamePlayButton.cs" />
+    <Compile Include="game\factory\GUI\SoundButton.cs" />
+    <Compile Include="game\factory\GUI\HomeButton.cs" />
+    <Compile Include="game\factory\GUI\PlayButton.cs" />
+    <Compile Include="game\factory\GUI\PauseButton.cs" />
+    <Compile Include="game\FX\FXShow.cs" />
+    <Compile Include="game\FX\FXTouch.cs" />
+    <Compile Include="game\FX\FXLabel.cs" />
+    <Compile Include="game\FX\FXImpact.cs" />
+    <Compile Include="game\FX\FXGetMush.cs" />
+    <Compile Include="game\FX\FXGetStar.cs" />
+    <Compile Include="game\FX\FXGreenSmoke.cs" />
+    <Compile Include="game\FX\FXFall.cs" />
+    <Compile Include="game\FX\DefaultFX.cs" />
+    <Compile Include="game\GameLoop.cs" />
+    <Compile Include="game\GameModel.cs" />
+    <Compile Include="game\level\behaviours\CloudsBehaviour.cs" />
+    <Compile Include="game\level\behaviours\PipemanBehaviour.cs" />
+    <Compile Include="game\level\behaviours\HellBehaviour.cs" />
+    <Compile Include="game\level\behaviours\NightBehaviour.cs" />
+    <Compile Include="game\level\behaviours\WinterBehaviour.cs" />
+    <Compile Include="game\level\behaviours\FlorestBehaviour.cs" />
+    <Compile Include="game\level\behaviours\LevelBehaviour.cs" />
+    <Compile Include="game\level\LevelModel.cs" />
+    <Compile Include="game\screen\PreGameScreen.cs" />
+    <Compile Include="game\screen\screenElements\BackLevelView.cs" />
+    <Compile Include="game\screen\screenElements\BaseHUD.cs" />
+    <Compile Include="game\screen\screenElements\Clouds.cs" />
+    <Compile Include="game\screen\screenElements\ComboBar.cs" />
+    <Compile Include="game\screen\screenElements\HelpCard.cs" />
+    <Compile Include="game\screen\screenElements\DevelopInfoCard.cs" />
+    <Compile Include="game\screen\screenElements\StatisticsCard.cs" />
+    <Compile Include="game\screen\screenElements\EffectImage.cs" />
+    <Compile Include="game\screen\screenElements\EndGameMenu.cs" />
+    <Compile Include="game\screen\screenElements\InfoCard.cs" />
+    <Compile Include="game\screen\screenElements\InGameMenu.cs" />
+    <Compile Include="game\screen\screenElements\ScreenEffect.cs" />
+    <Compile Include="game\screen\shopPages\LevelPage.cs" />
+    <Compile Include="game\screen\shopPages\DefaultPage.cs" />
+    <Compile Include="game\screen\shopPages\ItemBoxModel.cs" />
+    <Compile Include="game\screen\shopPages\ItemPage.cs" />
+    <Compile Include="game\screen\shopPages\elements\ItemBox.cs" />
+    <Compile Include="game\screen\shopPages\IPage.cs" />
+    <Compile Include="game\screen\shopPages\WearPage.cs" />
+    <Compile Include="game\screen\ShopScreen.cs" />
+    <Compile Include="game\screen\IntroScreen.cs" />
+    <Compile Include="game\screen\GameScreen.cs" />
+    <Compile Include="game\screen\ScreenLabels.cs" />
+    <Compile Include="game\Statistics.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tweener\Back.cs" />
+    <Compile Include="Tweener\Bounce.cs" />
+    <Compile Include="Tweener\Circular.cs" />
+    <Compile Include="Tweener\Cubic.cs" />
+    <Compile Include="Tweener\Elastic.cs" />
+    <Compile Include="Tweener\Exponential.cs" />
+    <Compile Include="Tweener\Linear.cs" />
+    <Compile Include="Tweener\Quadratic.cs" />
+    <Compile Include="Tweener\Quartic.cs" />
+    <Compile Include="Tweener\Quintic.cs" />
+    <Compile Include="Tweener\Sinusoidal.cs" />
+    <Compile Include="Tweener\Tweener.cs" />
+    <None Include="packages.config" />
+    <None Include="Properties\AppManifest.xml">
+      <XnaPlatformSpecific>true</XnaPlatformSpecific>
+    </None>
+    <None Include="Properties\WMAppManifest.xml">
+      <XnaPlatformSpecific>true</XnaPlatformSpecific>
+    </None>
+    <Compile Include="Program.cs" />
+    <Compile Include="Game1.cs" />
+    <None Include="RufusAndTheMagicMushrooms_2013_05_04_16_19_05.sap" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Game.ico" />
+    <Content Include="PhoneGameThumb.png">
+      <XnaPlatformSpecific>true</XnaPlatformSpecific>
+    </Content>
+    <Content Include="Background.png">
+      <XnaPlatformSpecific>true</XnaPlatformSpecific>
+    </Content>
+    <Content Include="README.txt" />
+    <Content Include="Release-notes.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\WindowsPhoneGame2Content\WindowsPhoneGame2Content.contentproj">
+      <Name>WindowsPhoneGame2Content %28Content%29</Name>
+      <XnaReferenceType>Content</XnaReferenceType>
+      <Project>{521D2B7A-5043-441F-A5EA-DFFD82E2ADCE}</Project>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\XNA Game Studio\Microsoft.Xna.GameStudio.targets" />
+  <!--
+      To modify your build process, add your task inside one of the targets below and uncomment it. 
+      Other similar extension points exist, see Microsoft.Common.targets.
+      <Target Name="BeforeBuild">
+      </Target>
+      <Target Name="AfterBuild">
+      </Target>
+    -->
+</Project>
