@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+<Asset Type="System.Collections.Generic.Dictionary[System.String, Microsoft.Xna.Framework.Rectangle]">
+<Item><Key>FXBolinha0001</Key><Value>0 0 48 50</Value></Item>
+<Item><Key>FXBolinha0002</Key><Value>49 0 48 50</Value></Item>
+<Item><Key>FXBolinha0003</Key><Value>0 51 48 50</Value></Item>
+<Item><Key>FXBolinha0004</Key><Value>49 51 48 50</Value></Item>
+<Item><Key>FXBolinha0005</Key><Value>98 0 48 50</Value></Item>
+<Item><Key>FXBolinha0006</Key><Value>147 0 48 50</Value></Item>
+<Item><Key>FXBolinha0007</Key><Value>98 51 48 50</Value></Item>
+<Item><Key>FXBolinha0008</Key><Value>196 0 48 50</Value></Item>
+<Item><Key>FXBolinha0009</Key><Value>147 51 48 50</Value></Item>
+<Item><Key>FXBolinha0010</Key><Value>196 51 48 50</Value></Item>
+</Asset>
+</XnaContent>

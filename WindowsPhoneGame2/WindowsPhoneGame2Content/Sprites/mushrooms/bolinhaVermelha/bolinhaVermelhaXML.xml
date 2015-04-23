@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+<Asset Type="System.Collections.Generic.Dictionary[System.String, Microsoft.Xna.Framework.Rectangle]">
+<Item><Key>bolinhaVermelha0001</Key><Value>0 0 71 62</Value></Item>
+<Item><Key>bolinhaVermelha0002</Key><Value>0 63 71 62</Value></Item>
+<Item><Key>bolinhaVermelha0003</Key><Value>72 0 71 62</Value></Item>
+<Item><Key>bolinhaVermelha0004</Key><Value>72 63 71 62</Value></Item>
+<Item><Key>bolinhaVermelha0005</Key><Value>144 0 71 62</Value></Item>
+<Item><Key>bolinhaVermelha0006</Key><Value>144 63 71 62</Value></Item>
+<Item><Key>bolinhaVermelha0007</Key><Value>0 126 71 62</Value></Item>
+<Item><Key>bolinhaVermelha0008</Key><Value>0 189 71 62</Value></Item>
+<Item><Key>bolinhaVermelha0009</Key><Value>72 126 71 62</Value></Item>
+<Item><Key>bolinhaVermelha0010</Key><Value>72 189 71 62</Value></Item>
+<Item><Key>bolinhaVermelha0011</Key><Value>144 126 71 62</Value></Item>
+<Item><Key>bolinhaVermelha0012</Key><Value>144 189 71 62</Value></Item>
+<Item><Key>bolinhaVermelha0013</Key><Value>216 0 71 62</Value></Item>
+<Item><Key>bolinhaVermelha0014</Key><Value>216 63 71 62</Value></Item>
+<Item><Key>bolinhaVermelha0015</Key><Value>288 0 71 62</Value></Item>
+<Item><Key>bolinhaVermelha0016</Key><Value>216 126 71 62</Value></Item>
+<Item><Key>bolinhaVermelha0017</Key><Value>288 63 71 62</Value></Item>
+<Item><Key>bolinhaVermelha0018</Key><Value>360 0 71 62</Value></Item>
+<Item><Key>bolinhaVermelha0019</Key><Value>216 189 71 62</Value></Item>
+<Item><Key>bolinhaVermelha0020</Key><Value>288 126 71 62</Value></Item>
+<Item><Key>bolinhaVermelha0021</Key><Value>360 63 71 62</Value></Item>
+<Item><Key>bolinhaVermelha0022</Key><Value>432 0 71 62</Value></Item>
+<Item><Key>bolinhaVermelha0023</Key><Value>288 189 71 62</Value></Item>
+<Item><Key>bolinhaVermelha0024</Key><Value>360 126 71 62</Value></Item>
+</Asset>
+</XnaContent>

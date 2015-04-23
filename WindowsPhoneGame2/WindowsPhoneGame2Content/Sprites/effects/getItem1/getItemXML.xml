@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+<Asset Type="System.Collections.Generic.Dictionary[System.String, Microsoft.Xna.Framework.Rectangle]">
+<Item><Key>getItem0001</Key><Value>0 0 40 39</Value></Item>
+<Item><Key>getItem0002</Key><Value>41 0 40 39</Value></Item>
+<Item><Key>getItem0003</Key><Value>82 0 40 39</Value></Item>
+<Item><Key>getItem0004</Key><Value>0 40 40 39</Value></Item>
+<Item><Key>getItem0005</Key><Value>41 40 40 39</Value></Item>
+</Asset>
+</XnaContent>

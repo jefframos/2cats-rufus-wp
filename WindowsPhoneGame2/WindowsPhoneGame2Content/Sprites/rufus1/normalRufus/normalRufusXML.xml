@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+<Asset Type="System.Collections.Generic.Dictionary[System.String, Microsoft.Xna.Framework.Rectangle]">
+<Item><Key>normalRufus0001</Key><Value>0 0 80 71</Value></Item>
+<Item><Key>normalRufus0002</Key><Value>81 0 80 71</Value></Item>
+<Item><Key>normalRufus0003</Key><Value>162 0 80 71</Value></Item>
+<Item><Key>normalRufus0004</Key><Value>0 72 80 71</Value></Item>
+<Item><Key>normalRufus0005</Key><Value>0 144 80 71</Value></Item>
+<Item><Key>normalRufus0006</Key><Value>81 72 80 71</Value></Item>
+<Item><Key>normalRufus0007</Key><Value>81 144 80 71</Value></Item>
+<Item><Key>normalRufus0008</Key><Value>162 72 80 71</Value></Item>
+<Item><Key>normalRufus0009</Key><Value>162 144 80 71</Value></Item>
+<Item><Key>normalRufus0010</Key><Value>243 0 80 71</Value></Item>
+<Item><Key>normalRufus0011</Key><Value>243 72 80 71</Value></Item>
+<Item><Key>normalRufus0012</Key><Value>324 0 80 71</Value></Item>
+<Item><Key>normalRufus0013</Key><Value>243 144 80 71</Value></Item>
+<Item><Key>normalRufus0014</Key><Value>324 72 80 71</Value></Item>
+<Item><Key>normalRufus0015</Key><Value>405 0 80 71</Value></Item>
+</Asset>
+</XnaContent>

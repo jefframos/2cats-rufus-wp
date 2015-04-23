@@ -59,6 +59,9 @@
     <Reference Include="Microsoft.Xna.Framework.GamerServices" />
     <Reference Include="Microsoft.Xna.Framework.Input.Touch" />
     <Reference Include="mscorlib" />
+    <Reference Include="OpenXLive.Payment.UIComponent">
+      <HintPath>..\..\packages\OpenXLive.Payment.UIComponent.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Xml" />
     <Reference Include="System.Core" />

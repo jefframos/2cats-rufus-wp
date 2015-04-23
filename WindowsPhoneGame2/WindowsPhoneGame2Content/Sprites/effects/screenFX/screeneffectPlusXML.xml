@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+<Asset Type="System.Collections.Generic.Dictionary[System.String, Microsoft.Xna.Framework.Rectangle]">
+<Item><Key>screeneffectPlus0001</Key><Value>0 0 800 480</Value></Item>
+<Item><Key>screeneffectPlus0002</Key><Value>0 481 800 480</Value></Item>
+</Asset>
+</XnaContent>

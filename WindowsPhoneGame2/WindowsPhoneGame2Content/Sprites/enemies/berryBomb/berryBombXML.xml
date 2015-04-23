@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+<Asset Type="System.Collections.Generic.Dictionary[System.String, Microsoft.Xna.Framework.Rectangle]">
+<Item><Key>berryBomb0001</Key><Value>0 0 57 88</Value></Item>
+<Item><Key>berryBomb0002</Key><Value>58 0 57 88</Value></Item>
+<Item><Key>berryBomb0003</Key><Value>116 0 57 88</Value></Item>
+<Item><Key>berryBomb0004</Key><Value>174 0 57 88</Value></Item>
+</Asset>
+</XnaContent>

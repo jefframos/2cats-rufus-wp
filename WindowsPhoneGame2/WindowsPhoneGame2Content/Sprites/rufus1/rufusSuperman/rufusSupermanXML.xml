@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+<Asset Type="System.Collections.Generic.Dictionary[System.String, Microsoft.Xna.Framework.Rectangle]">
+<Item><Key>rufusSuperman0001</Key><Value>0 0 103 91</Value></Item>
+<Item><Key>rufusSuperman0002</Key><Value>104 0 103 91</Value></Item>
+<Item><Key>rufusSuperman0003</Key><Value>0 92 103 91</Value></Item>
+<Item><Key>rufusSuperman0004</Key><Value>104 92 103 91</Value></Item>
+<Item><Key>rufusSuperman0005</Key><Value>208 0 103 91</Value></Item>
+<Item><Key>rufusSuperman0006</Key><Value>208 92 103 91</Value></Item>
+<Item><Key>rufusSuperman0007</Key><Value>312 0 103 91</Value></Item>
+<Item><Key>rufusSuperman0008</Key><Value>312 92 103 91</Value></Item>
+<Item><Key>rufusSuperman0009</Key><Value>0 184 103 91</Value></Item>
+<Item><Key>rufusSuperman0010</Key><Value>0 276 103 91</Value></Item>
+<Item><Key>rufusSuperman0011</Key><Value>104 184 103 91</Value></Item>
+<Item><Key>rufusSuperman0012</Key><Value>0 368 103 91</Value></Item>
+<Item><Key>rufusSuperman0013</Key><Value>104 276 103 91</Value></Item>
+<Item><Key>rufusSuperman0014</Key><Value>208 184 103 91</Value></Item>
+<Item><Key>rufusSuperman0015</Key><Value>104 368 103 91</Value></Item>
+<Item><Key>rufusSuperman0016</Key><Value>208 276 103 91</Value></Item>
+<Item><Key>rufusSuperman0017</Key><Value>312 184 103 91</Value></Item>
+</Asset>
+</XnaContent>

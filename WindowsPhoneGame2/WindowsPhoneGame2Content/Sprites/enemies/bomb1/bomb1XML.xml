@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+<Asset Type="System.Collections.Generic.Dictionary[System.String, Microsoft.Xna.Framework.Rectangle]">
+<Item><Key>bomb10001</Key><Value>0 0 141 123</Value></Item>
+<Item><Key>bomb10002</Key><Value>0 124 141 123</Value></Item>
+<Item><Key>bomb10003</Key><Value>142 0 141 123</Value></Item>
+<Item><Key>bomb10004</Key><Value>142 124 141 123</Value></Item>
+<Item><Key>bomb10005</Key><Value>284 0 141 123</Value></Item>
+<Item><Key>bomb10006</Key><Value>284 124 141 123</Value></Item>
+<Item><Key>bomb10007</Key><Value>0 248 141 123</Value></Item>
+<Item><Key>bomb10008</Key><Value>142 248 141 123</Value></Item>
+</Asset>
+</XnaContent>

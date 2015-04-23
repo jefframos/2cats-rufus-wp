@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+<Asset Type="System.Collections.Generic.Dictionary[System.String, Microsoft.Xna.Framework.Rectangle]">
+<Item><Key>red0001</Key><Value>0 0 67 67</Value></Item>
+<Item><Key>red0002</Key><Value>68 0 67 67</Value></Item>
+<Item><Key>red0003</Key><Value>136 0 67 67</Value></Item>
+<Item><Key>red0004</Key><Value>0 68 67 67</Value></Item>
+<Item><Key>red0005</Key><Value>68 68 67 67</Value></Item>
+<Item><Key>red0006</Key><Value>0 136 67 67</Value></Item>
+<Item><Key>red0007</Key><Value>68 136 67 67</Value></Item>
+<Item><Key>red0008</Key><Value>136 68 67 67</Value></Item>
+<Item><Key>red0009</Key><Value>136 136 67 67</Value></Item>
+<Item><Key>red0010</Key><Value>204 0 67 67</Value></Item>
+</Asset>
+</XnaContent>

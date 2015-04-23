@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+<Asset Type="System.Collections.Generic.Dictionary[System.String, Microsoft.Xna.Framework.Rectangle]">
+<Item><Key>quickBolinha0001</Key><Value>0 0 53 61</Value></Item>
+<Item><Key>quickBolinha0002</Key><Value>54 0 53 61</Value></Item>
+<Item><Key>quickBolinha0003</Key><Value>0 62 53 61</Value></Item>
+<Item><Key>quickBolinha0004</Key><Value>54 62 53 61</Value></Item>
+<Item><Key>quickBolinha0005</Key><Value>108 0 53 61</Value></Item>
+<Item><Key>quickBolinha0006</Key><Value>162 0 53 61</Value></Item>
+<Item><Key>quickBolinha0007</Key><Value>108 62 53 61</Value></Item>
+<Item><Key>quickBolinha0008</Key><Value>162 62 53 61</Value></Item>
+<Item><Key>quickBolinha0009</Key><Value>0 124 53 61</Value></Item>
+<Item><Key>quickBolinha0010</Key><Value>54 124 53 61</Value></Item>
+<Item><Key>quickBolinha0011</Key><Value>0 186 53 61</Value></Item>
+<Item><Key>quickBolinha0012</Key><Value>108 124 53 61</Value></Item>
+<Item><Key>quickBolinha0013</Key><Value>54 186 53 61</Value></Item>
+<Item><Key>quickBolinha0014</Key><Value>162 124 53 61</Value></Item>
+<Item><Key>quickBolinha0015</Key><Value>108 186 53 61</Value></Item>
+<Item><Key>quickBolinha0016</Key><Value>162 186 53 61</Value></Item>
+</Asset>
+</XnaContent>

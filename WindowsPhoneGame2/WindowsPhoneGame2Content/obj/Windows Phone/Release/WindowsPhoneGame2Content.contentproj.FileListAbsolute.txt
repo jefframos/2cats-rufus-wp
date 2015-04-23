@@ -1,0 +1,3 @@
+C:\Users\Jeff Ramos\Documents\Ultimate\WindowsPhoneGame2\WindowsPhoneGame2Content\obj\Windows Phone\Release\WindowsPhoneGame2Content.contentprojResolveAssemblyReference.cache
+D:\Rufus\Ultimate\WindowsPhoneGame2\WindowsPhoneGame2Content\obj\Windows Phone\Release\WindowsPhoneGame2Content.contentprojResolveAssemblyReference.cache
+D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2Content\obj\Windows Phone\Release\WindowsPhoneGame2Content.contentprojResolveAssemblyReference.cache

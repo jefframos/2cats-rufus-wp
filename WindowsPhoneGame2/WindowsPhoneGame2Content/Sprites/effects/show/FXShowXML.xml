@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+<Asset Type="System.Collections.Generic.Dictionary[System.String, Microsoft.Xna.Framework.Rectangle]">
+<Item><Key>FXshow0002</Key><Value>0 0 87 70</Value></Item>
+<Item><Key>FXshow0003</Key><Value>88 0 87 70</Value></Item>
+<Item><Key>FXshow0004</Key><Value>0 71 87 70</Value></Item>
+<Item><Key>FXshow0005</Key><Value>88 71 87 70</Value></Item>
+</Asset>
+</XnaContent>

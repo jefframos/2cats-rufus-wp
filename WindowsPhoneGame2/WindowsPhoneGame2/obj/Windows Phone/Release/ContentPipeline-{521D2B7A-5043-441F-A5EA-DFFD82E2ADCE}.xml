@@ -1,0 +1,1903 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Sprites\walkJump.png</Source>
+      <Name>Sprites\walkJump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\walkJump.xnb</Output>
+      <Time>2013-03-19T16:56:56-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\scene2.fw.png</Source>
+      <Name>Sprites\scene2.fw</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\scene2.fw.xnb</Output>
+      <Time>2013-03-19T17:22:44-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\rufusConcept.png</Source>
+      <Name>Sprites\rufusConcept</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\rufusConcept.xnb</Output>
+      <Time>2013-04-19T18:10:04-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\cogumelao2.png</Source>
+      <Name>Sprites\cogumelao2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\cogumelao2.xnb</Output>
+      <Time>2013-03-20T17:01:16-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\rufuslogo.png</Source>
+      <Name>Sprites\GUI\rufuslogo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\rufuslogo.xnb</Output>
+      <Time>2013-03-21T17:02:18-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\levels\bgPreGame.png</Source>
+      <Name>Sprites\GUI\levels\bgPreGame</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\levels\bgPreGame.xnb</Output>
+      <Time>2013-03-22T10:42:36-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\levels\bgPreGame2.png</Source>
+      <Name>Sprites\GUI\levels\bgPreGame2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\levels\bgPreGame2.xnb</Output>
+      <Time>2013-04-04T18:06:38-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\elements\giantCloudNight.png</Source>
+      <Name>Sprites\elements\giantCloudNight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\elements\giantCloudNight.xnb</Output>
+      <Time>2013-03-22T10:50:12-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\elements\nuvem1.png</Source>
+      <Name>Sprites\elements\nuvem1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\elements\nuvem1.xnb</Output>
+      <Time>2013-03-21T15:16:50-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\elements\nuvem2.png</Source>
+      <Name>Sprites\elements\nuvem2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\elements\nuvem2.xnb</Output>
+      <Time>2013-03-21T15:16:44-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\elements\nuvem3.png</Source>
+      <Name>Sprites\elements\nuvem3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\elements\nuvem3.xnb</Output>
+      <Time>2013-03-21T15:16:56-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\elements\nuvem4.png</Source>
+      <Name>Sprites\elements\nuvem4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\elements\nuvem4.xnb</Output>
+      <Time>2013-03-21T15:17:02-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\backPauseShape.png</Source>
+      <Name>Sprites\GUI\backPauseShape</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\backPauseShape.xnb</Output>
+      <Time>2013-03-22T15:17:20-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\backMenuShape.png</Source>
+      <Name>Sprites\GUI\backMenuShape</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\backMenuShape.xnb</Output>
+      <Time>2013-03-22T15:17:32-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\levels\Level1Graphics\maskedLayer1.png</Source>
+      <Name>Sprites\GUI\levels\Level1Graphics\maskedLayer1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\levels\Level1Graphics\maskedLayer1.xnb</Output>
+      <Time>2013-03-22T19:02:02-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\levels\Level1Graphics\maskedLayer2.png</Source>
+      <Name>Sprites\GUI\levels\Level1Graphics\maskedLayer2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\levels\Level1Graphics\maskedLayer2.xnb</Output>
+      <Time>2013-03-22T19:01:38-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\levels\Level1Graphics\maskedLayer3.png</Source>
+      <Name>Sprites\GUI\levels\Level1Graphics\maskedLayer3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\levels\Level1Graphics\maskedLayer3.xnb</Output>
+      <Time>2013-03-22T19:01:24-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\levels\Level1Graphics\maskedLayer4.png</Source>
+      <Name>Sprites\GUI\levels\Level1Graphics\maskedLayer4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\levels\Level1Graphics\maskedLayer4.xnb</Output>
+      <Time>2013-03-22T19:01:14-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\mushrooms\bolinha\bolinha.png</Source>
+      <Name>Sprites\mushrooms\bolinha\bolinha</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\mushrooms\bolinha\bolinha.xnb</Output>
+      <Time>2013-03-25T16:28:36-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\enemies\bomb1\bomb1.png</Source>
+      <Name>Sprites\enemies\bomb1\bomb1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\enemies\bomb1\bomb1.xnb</Output>
+      <Time>2013-03-26T15:46:16-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\mushrooms\star\star.png</Source>
+      <Name>Sprites\mushrooms\star\star</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\mushrooms\star\star.xnb</Output>
+      <Time>2013-04-04T10:28:38-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\rufus1\normalRufus\normalRufus.png</Source>
+      <Name>Sprites\rufus1\normalRufus\normalRufus</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\rufus1\normalRufus\normalRufus.xnb</Output>
+      <Time>2013-03-25T20:45:56-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\backEndGame.png</Source>
+      <Name>Sprites\GUI\backEndGame</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\backEndGame.xnb</Output>
+      <Time>2013-04-19T21:08:20-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\rufus1\rufusSuperman\rufusSuperman.png</Source>
+      <Name>Sprites\rufus1\rufusSuperman\rufusSuperman</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\rufus1\rufusSuperman\rufusSuperman.xnb</Output>
+      <Time>2013-03-26T14:19:14-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\mushrooms\bolinhaVermelha\bolinhaVermelha.png</Source>
+      <Name>Sprites\mushrooms\bolinhaVermelha\bolinhaVermelha</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\mushrooms\bolinhaVermelha\bolinhaVermelha.xnb</Output>
+      <Time>2013-03-26T15:45:48-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\mushrooms\cogumelo2.png</Source>
+      <Name>Sprites\mushrooms\cogumelo2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\mushrooms\cogumelo2.xnb</Output>
+      <Time>2013-04-28T23:53:33.2278338-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\mushrooms\cogumelo3.png</Source>
+      <Name>Sprites\mushrooms\cogumelo3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\mushrooms\cogumelo3.xnb</Output>
+      <Time>2013-04-28T23:52:19.3873337-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\mushrooms\cogumelo1.png</Source>
+      <Name>Sprites\mushrooms\cogumelo1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\mushrooms\cogumelo1.xnb</Output>
+      <Time>2013-04-28T23:53:41.0469109-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\effects\getItem1\getItem.png</Source>
+      <Name>Sprites\effects\getItem1\getItem</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\effects\getItem1\getItem.xnb</Output>
+      <Time>2013-03-27T10:01:00-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\effects\getStar\FXStar.png</Source>
+      <Name>Sprites\effects\getStar\FXStar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\effects\getStar\FXStar.xnb</Output>
+      <Time>2013-03-27T10:56:34-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\effects\getBolinha\FXBolinha.png</Source>
+      <Name>Sprites\effects\getBolinha\FXBolinha</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\effects\getBolinha\FXBolinha.xnb</Output>
+      <Time>2013-03-27T11:13:24-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\effects\fall\FXFall.png</Source>
+      <Name>Sprites\effects\fall\FXFall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\effects\fall\FXFall.xnb</Output>
+      <Time>2013-03-27T11:38:54-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\enemies\berryBomb\berryBomb.png</Source>
+      <Name>Sprites\enemies\berryBomb\berryBomb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\enemies\berryBomb\berryBomb.xnb</Output>
+      <Time>2013-04-28T23:56:20.0315028-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\effects\impact\FXImpact.png</Source>
+      <Name>Sprites\effects\impact\FXImpact</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\effects\impact\FXImpact.xnb</Output>
+      <Time>2013-03-27T15:02:44-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\shopScreen\backScreen.png</Source>
+      <Name>Sprites\GUI\shopScreen\backScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\shopScreen\backScreen.xnb</Output>
+      <Time>2013-03-27T16:19:58-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\shopScreen\box.png</Source>
+      <Name>Sprites\GUI\shopScreen\box</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\shopScreen\box.xnb</Output>
+      <Time>2013-03-27T16:19:40-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\shopScreen\boxActive.png</Source>
+      <Name>Sprites\GUI\shopScreen\boxActive</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\shopScreen\boxActive.xnb</Output>
+      <Time>2013-03-27T16:19:32-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\shopScreen\starContainer.png</Source>
+      <Name>Sprites\GUI\shopScreen\starContainer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\shopScreen\starContainer.xnb</Output>
+      <Time>2013-03-27T15:57:04-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\shopScreen\normalrufus.png</Source>
+      <Name>Sprites\GUI\shopScreen\normalrufus</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\shopScreen\normalrufus.xnb</Output>
+      <Time>2013-03-27T17:28:58-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\shopScreen\miniStar.png</Source>
+      <Name>Sprites\GUI\shopScreen\miniStar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\shopScreen\miniStar.xnb</Output>
+      <Time>2013-03-27T17:36:00-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\shopScreen\bolinha.png</Source>
+      <Name>Sprites\GUI\shopScreen\bolinha</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\shopScreen\bolinha.xnb</Output>
+      <Time>2013-03-28T09:57:38-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\shopScreen\cogumelo1.png</Source>
+      <Name>Sprites\GUI\shopScreen\cogumelo1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\shopScreen\cogumelo1.xnb</Output>
+      <Time>2013-04-02T19:22:18-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\shopScreen\cogumelo2.png</Source>
+      <Name>Sprites\GUI\shopScreen\cogumelo2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\shopScreen\cogumelo2.xnb</Output>
+      <Time>2013-04-02T19:21:32-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\shopScreen\cogumelo3.png</Source>
+      <Name>Sprites\GUI\shopScreen\cogumelo3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\shopScreen\cogumelo3.xnb</Output>
+      <Time>2013-04-02T18:11:36-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\shopScreen\itemsButton.png</Source>
+      <Name>Sprites\GUI\shopScreen\itemsButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\shopScreen\itemsButton.xnb</Output>
+      <Time>2013-03-28T10:16:30-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\shopScreen\levelsButton.png</Source>
+      <Name>Sprites\GUI\shopScreen\levelsButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\shopScreen\levelsButton.xnb</Output>
+      <Time>2013-03-28T10:16:24-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\shopScreen\superRufus.png</Source>
+      <Name>Sprites\GUI\shopScreen\superRufus</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\shopScreen\superRufus.xnb</Output>
+      <Time>2013-03-28T10:16:44-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\shopScreen\wearButton.png</Source>
+      <Name>Sprites\GUI\shopScreen\wearButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\shopScreen\wearButton.xnb</Output>
+      <Time>2013-03-28T10:16:34-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\shopScreen\imageLevel1.png</Source>
+      <Name>Sprites\GUI\shopScreen\imageLevel1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\shopScreen\imageLevel1.xnb</Output>
+      <Time>2013-03-28T11:28:12-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\backChoiceRufus.png</Source>
+      <Name>Sprites\GUI\backChoiceRufus</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\backChoiceRufus.xnb</Output>
+      <Time>2013-03-28T14:40:08-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\shopScreen\rufusLarge.png</Source>
+      <Name>Sprites\GUI\shopScreen\rufusLarge</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\shopScreen\rufusLarge.xnb</Output>
+      <Time>2013-03-28T15:07:16-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\shopScreen\superRufusLarge.png</Source>
+      <Name>Sprites\GUI\shopScreen\superRufusLarge</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\shopScreen\superRufusLarge.xnb</Output>
+      <Time>2013-03-28T15:07:04-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\defaultButton\shapeButton.png</Source>
+      <Name>Sprites\GUI\defaultButton\shapeButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\defaultButton\shapeButton.xnb</Output>
+      <Time>2013-04-01T10:03:56-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\font\luckiest\Texture.png</Source>
+      <Name>Sprites\font\luckiest\Texture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\font\luckiest\Texture.xnb</Output>
+      <Time>2013-04-01T10:26:04-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\backCard.png</Source>
+      <Name>Sprites\backCard</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\backCard.xnb</Output>
+      <Time>2013-04-01T14:30:56-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\symbols\equalSymbol.png</Source>
+      <Name>Sprites\GUI\symbols\equalSymbol</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\symbols\equalSymbol.xnb</Output>
+      <Time>2013-04-01T18:28:10-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\symbols\minusSymbol.png</Source>
+      <Name>Sprites\GUI\symbols\minusSymbol</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\symbols\minusSymbol.xnb</Output>
+      <Time>2013-04-01T18:26:28-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\symbols\plusSymbol.png</Source>
+      <Name>Sprites\GUI\symbols\plusSymbol</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\symbols\plusSymbol.xnb</Output>
+      <Time>2013-04-01T18:26:42-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\effects\touch\FXTouch.png</Source>
+      <Name>Sprites\effects\touch\FXTouch</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\effects\touch\FXTouch.xnb</Output>
+      <Time>2013-04-02T17:49:30-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\effects\show\FXShow.png</Source>
+      <Name>Sprites\effects\show\FXShow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\effects\show\FXShow.xnb</Output>
+      <Time>2013-04-02T18:43:58-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\mushrooms\cogumelo4.png</Source>
+      <Name>Sprites\mushrooms\cogumelo4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\mushrooms\cogumelo4.xnb</Output>
+      <Time>2013-04-28T23:53:50.4221491-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\mushrooms\bolinhaQuicante\quickBolinha.png</Source>
+      <Name>Sprites\mushrooms\bolinhaQuicante\quickBolinha</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\mushrooms\bolinhaQuicante\quickBolinha.xnb</Output>
+      <Time>2013-04-04T10:40:24-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\mushrooms\bolinha0001.png</Source>
+      <Name>Sprites\mushrooms\bolinha0001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\mushrooms\bolinha0001.xnb</Output>
+      <Time>2013-03-25T16:27:58-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\mushrooms\bolinhaVermelha0002.png</Source>
+      <Name>Sprites\mushrooms\bolinhaVermelha0002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\mushrooms\bolinhaVermelha0002.xnb</Output>
+      <Time>2013-03-26T14:57:04-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\mushrooms\quickBolinha0001.png</Source>
+      <Name>Sprites\mushrooms\quickBolinha0001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\mushrooms\quickBolinha0001.xnb</Output>
+      <Time>2013-04-03T11:11:12-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\mushrooms\star0006.png</Source>
+      <Name>Sprites\mushrooms\star0006</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\mushrooms\star0006.xnb</Output>
+      <Time>2013-04-04T10:28:00-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\enemies\deadly\deadly.png</Source>
+      <Name>Sprites\enemies\deadly\deadly</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\enemies\deadly\deadly.xnb</Output>
+      <Time>2013-04-28T23:55:49.1365359-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\levels\Level2Graphics\layer1.png</Source>
+      <Name>Sprites\GUI\levels\Level2Graphics\layer1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\levels\Level2Graphics\layer1.xnb</Output>
+      <Time>2013-04-04T17:59:16-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\levels\Level2Graphics\layer2.png</Source>
+      <Name>Sprites\GUI\levels\Level2Graphics\layer2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\levels\Level2Graphics\layer2.xnb</Output>
+      <Time>2013-04-04T17:59:56-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\levels\Level2Graphics\layer3.png</Source>
+      <Name>Sprites\GUI\levels\Level2Graphics\layer3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\levels\Level2Graphics\layer3.xnb</Output>
+      <Time>2013-04-04T18:00:18-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\shopScreen\imageLevel2.png</Source>
+      <Name>Sprites\GUI\shopScreen\imageLevel2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\shopScreen\imageLevel2.xnb</Output>
+      <Time>2013-04-04T18:05:52-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\elements\winterNuvem1.png</Source>
+      <Name>Sprites\elements\winterNuvem1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\elements\winterNuvem1.xnb</Output>
+      <Time>2013-04-04T17:57:20-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\elements\winterNuvem2.png</Source>
+      <Name>Sprites\elements\winterNuvem2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\elements\winterNuvem2.xnb</Output>
+      <Time>2013-04-04T17:57:52-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\backColorBar.png</Source>
+      <Name>Sprites\GUI\backColorBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\backColorBar.xnb</Output>
+      <Time>2013-04-04T18:24:14-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\colorBar.png</Source>
+      <Name>Sprites\GUI\colorBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\colorBar.xnb</Output>
+      <Time>2013-04-04T18:23:50-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\frontBar.png</Source>
+      <Name>Sprites\GUI\frontBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\frontBar.xnb</Output>
+      <Time>2013-04-04T18:23:36-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\frontBarTap.png</Source>
+      <Name>Sprites\GUI\frontBarTap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\frontBarTap.xnb</Output>
+      <Time>2013-04-06T15:35:12-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\backColorBarInvencible.png</Source>
+      <Name>Sprites\GUI\backColorBarInvencible</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\backColorBarInvencible.xnb</Output>
+      <Time>2013-04-06T10:55:42-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\colorBarInvencible.png</Source>
+      <Name>Sprites\GUI\colorBarInvencible</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\colorBarInvencible.xnb</Output>
+      <Time>2013-04-06T10:55:32-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\frontBarInvencible.png</Source>
+      <Name>Sprites\GUI\frontBarInvencible</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\frontBarInvencible.xnb</Output>
+      <Time>2013-04-06T10:55:54-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\readyButton\readyButton.png</Source>
+      <Name>Sprites\GUI\readyButton\readyButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\readyButton\readyButton.xnb</Output>
+      <Time>2013-04-06T11:50:50-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\locationButton\locationButton.png</Source>
+      <Name>Sprites\GUI\locationButton\locationButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\locationButton\locationButton.xnb</Output>
+      <Time>2013-04-06T11:59:18-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\arrowButton\arrowButton.png</Source>
+      <Name>Sprites\GUI\arrowButton\arrowButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\arrowButton\arrowButton.xnb</Output>
+      <Time>2013-04-06T12:04:00-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\backToGameButton\backToGameButton.png</Source>
+      <Name>Sprites\GUI\backToGameButton\backToGameButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\backToGameButton\backToGameButton.xnb</Output>
+      <Time>2013-04-06T12:33:10-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\homeButton\homeButton.png</Source>
+      <Name>Sprites\GUI\homeButton\homeButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\homeButton\homeButton.xnb</Output>
+      <Time>2013-04-06T12:43:30-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\pauseButton\pauseButton.png</Source>
+      <Name>Sprites\GUI\pauseButton\pauseButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\pauseButton\pauseButton.xnb</Output>
+      <Time>2013-04-06T12:44:00-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\playButton\playGameButton.png</Source>
+      <Name>Sprites\GUI\playButton\playGameButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\playButton\playGameButton.xnb</Output>
+      <Time>2013-04-06T12:44:28-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\soundButton\soundButton.png</Source>
+      <Name>Sprites\GUI\soundButton\soundButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\soundButton\soundButton.xnb</Output>
+      <Time>2013-04-16T00:44:14-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\backCard.png</Source>
+      <Name>Sprites\GUI\backCard</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\backCard.xnb</Output>
+      <Time>2013-04-01T17:51:08-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\playButtonNew\playButtonNew.png</Source>
+      <Name>Sprites\GUI\playButtonNew\playButtonNew</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\playButtonNew\playButtonNew.xnb</Output>
+      <Time>2013-04-06T13:08:54-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\shopButton\shopButton.png</Source>
+      <Name>Sprites\GUI\shopButton\shopButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\shopButton\shopButton.xnb</Output>
+      <Time>2013-04-06T13:09:26-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\mushrooms\flyingBolinha0012.png</Source>
+      <Name>Sprites\mushrooms\flyingBolinha0012</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\mushrooms\flyingBolinha0012.xnb</Output>
+      <Time>2013-04-07T20:24:26-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\mushrooms\bolinhaVoadora\flyingBolinha.png</Source>
+      <Name>Sprites\mushrooms\bolinhaVoadora\flyingBolinha</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\mushrooms\bolinhaVoadora\flyingBolinha.xnb</Output>
+      <Time>2013-04-07T20:25:38-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\mushrooms\magnetic\magnetic.png</Source>
+      <Name>Sprites\mushrooms\magnetic\magnetic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\mushrooms\magnetic\magnetic.xnb</Output>
+      <Time>2013-04-07T21:34:32-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\mushrooms\rain\rain.png</Source>
+      <Name>Sprites\mushrooms\rain\rain</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\mushrooms\rain\rain.xnb</Output>
+      <Time>2013-04-07T21:35:02-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\mushrooms\magnetic0001.png</Source>
+      <Name>Sprites\mushrooms\magnetic0001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\mushrooms\magnetic0001.xnb</Output>
+      <Time>2013-04-07T21:31:32-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\mushrooms\rain0001.png</Source>
+      <Name>Sprites\mushrooms\rain0001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\mushrooms\rain0001.xnb</Output>
+      <Time>2013-04-07T21:33:42-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\mushrooms\rain2\rain2.png</Source>
+      <Name>Sprites\mushrooms\rain2\rain2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\mushrooms\rain2\rain2.xnb</Output>
+      <Time>2013-04-07T23:24:46-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\mushrooms\rain20001.png</Source>
+      <Name>Sprites\mushrooms\rain20001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\mushrooms\rain20001.xnb</Output>
+      <Time>2013-04-07T23:11:36-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\mushrooms\time\time.png</Source>
+      <Name>Sprites\mushrooms\time\time</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\mushrooms\time\time.xnb</Output>
+      <Time>2013-04-18T21:05:42-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\mushrooms\time0001.png</Source>
+      <Name>Sprites\mushrooms\time0001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\mushrooms\time0001.xnb</Output>
+      <Time>2013-04-18T21:02:36-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\enemies\bolavoadora\bolavoadora.png</Source>
+      <Name>Sprites\enemies\bolavoadora\bolavoadora</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\enemies\bolavoadora\bolavoadora.xnb</Output>
+      <Time>2013-04-28T23:55:08.3653169-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\invencible.png</Source>
+      <Name>Sprites\GUI\invencible</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\invencible.xnb</Output>
+      <Time>2013-04-17T22:32:50-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\magnetic.png</Source>
+      <Name>Sprites\GUI\magnetic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\magnetic.xnb</Output>
+      <Time>2013-04-17T22:33:00-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\mushrain.png</Source>
+      <Name>Sprites\GUI\mushrain</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\mushrain.xnb</Output>
+      <Time>2013-04-17T22:33:10-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\stop.png</Source>
+      <Name>Sprites\GUI\stop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\stop.xnb</Output>
+      <Time>2013-04-18T21:13:18-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\effects\screenFX\screeneffect.png</Source>
+      <Name>Sprites\effects\screenFX\screeneffect</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\effects\screenFX\screeneffect.xnb</Output>
+      <Time>2013-04-18T21:26:02-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\effects\particles\miniStar.png</Source>
+      <Name>Sprites\effects\particles\miniStar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\effects\particles\miniStar.xnb</Output>
+      <Time>2013-04-18T21:52:42-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\rufus1\fatRufus\fatRufus.png</Source>
+      <Name>Sprites\rufus1\fatRufus\fatRufus</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\rufus1\fatRufus\fatRufus.xnb</Output>
+      <Time>2013-04-19T20:41:12-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\shopScreen\fatRufus.png</Source>
+      <Name>Sprites\GUI\shopScreen\fatRufus</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\shopScreen\fatRufus.xnb</Output>
+      <Time>2013-04-19T20:25:42-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\shopScreen\fatRufusLarge.png</Source>
+      <Name>Sprites\GUI\shopScreen\fatRufusLarge</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\shopScreen\fatRufusLarge.xnb</Output>
+      <Time>2013-04-19T20:32:46-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\fbbutton\fbbutton.png</Source>
+      <Name>Sprites\GUI\fbbutton\fbbutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\fbbutton\fbbutton.xnb</Output>
+      <Time>2013-04-19T21:54:14-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\twitterbutton\twitterbutton.png</Source>
+      <Name>Sprites\GUI\twitterbutton\twitterbutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\twitterbutton\twitterbutton.xnb</Output>
+      <Time>2013-04-19T21:54:50-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\statisticButton\statisctis.png</Source>
+      <Name>Sprites\GUI\statisticButton\statisctis</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\statisticButton\statisctis.xnb</Output>
+      <Time>2013-04-21T21:37:58-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\statisticsCard.png</Source>
+      <Name>Sprites\GUI\statisticsCard</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\statisticsCard.xnb</Output>
+      <Time>2013-05-04T14:38:55.9961985-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\infoButton\infoButton.png</Source>
+      <Name>Sprites\GUI\infoButton\infoButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\infoButton\infoButton.xnb</Output>
+      <Time>2013-04-21T21:38:52-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\backScreen.png</Source>
+      <Name>Sprites\GUI\backScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\backScreen.xnb</Output>
+      <Time>2013-04-21T23:58:50-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\loadscreen.png</Source>
+      <Name>Sprites\GUI\loadscreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\loadscreen.xnb</Output>
+      <Time>2013-05-04T13:26:32.1989507-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\levels\bgPreGame3.png</Source>
+      <Name>Sprites\GUI\levels\bgPreGame3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\levels\bgPreGame3.xnb</Output>
+      <Time>2013-04-27T15:31:25.9596656-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\levels\Level3Graphics\maskedLayer1.png</Source>
+      <Name>Sprites\GUI\levels\Level3Graphics\maskedLayer1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\levels\Level3Graphics\maskedLayer1.xnb</Output>
+      <Time>2013-04-27T15:24:28.2840814-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\levels\Level3Graphics\maskedLayer2.png</Source>
+      <Name>Sprites\GUI\levels\Level3Graphics\maskedLayer2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\levels\Level3Graphics\maskedLayer2.xnb</Output>
+      <Time>2013-04-27T15:45:21.8921415-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\shopScreen\imageLevel3.png</Source>
+      <Name>Sprites\GUI\shopScreen\imageLevel3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\shopScreen\imageLevel3.xnb</Output>
+      <Time>2013-04-27T15:43:32.651169-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\enemies\jackO\jacko.png</Source>
+      <Name>Sprites\enemies\jackO\jacko</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\enemies\jackO\jacko.xnb</Output>
+      <Time>2013-04-28T23:55:26.3516179-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\shopScreen\rufusMario.png</Source>
+      <Name>Sprites\GUI\shopScreen\rufusMario</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\shopScreen\rufusMario.xnb</Output>
+      <Time>2013-04-27T18:09:30.299442-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\shopScreen\rufusMarioLarge.png</Source>
+      <Name>Sprites\GUI\shopScreen\rufusMarioLarge</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\shopScreen\rufusMarioLarge.xnb</Output>
+      <Time>2013-04-27T18:09:06.1373751-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\rufus1\rufusMario\rufusMario.png</Source>
+      <Name>Sprites\rufus1\rufusMario\rufusMario</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\rufus1\rufusMario\rufusMario.xnb</Output>
+      <Time>2013-04-27T18:11:20.2034903-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\levels\Level4Graphics\maskedLayer1.png</Source>
+      <Name>Sprites\GUI\levels\Level4Graphics\maskedLayer1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\levels\Level4Graphics\maskedLayer1.xnb</Output>
+      <Time>2013-04-29T00:26:43.5316729-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\levels\bgPreGame4.png</Source>
+      <Name>Sprites\GUI\levels\bgPreGame4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\levels\bgPreGame4.xnb</Output>
+      <Time>2013-04-29T00:26:23.4660767-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\shopScreen\imageLevel4.png</Source>
+      <Name>Sprites\GUI\shopScreen\imageLevel4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\shopScreen\imageLevel4.xnb</Output>
+      <Time>2013-04-28T14:43:32.1886299-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\levels\Level5Graphics\level5.png</Source>
+      <Name>Sprites\GUI\levels\Level5Graphics\level5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\levels\Level5Graphics\level5.xnb</Output>
+      <Time>2013-04-28T15:43:12.1142502-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\levels\bgPreGame5.png</Source>
+      <Name>Sprites\GUI\levels\bgPreGame5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\levels\bgPreGame5.xnb</Output>
+      <Time>2013-04-28T16:06:43.8267193-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\shopScreen\imageLevel5.png</Source>
+      <Name>Sprites\GUI\shopScreen\imageLevel5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\shopScreen\imageLevel5.xnb</Output>
+      <Time>2013-04-28T16:18:17.7844343-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\enemies\hells\hells.png</Source>
+      <Name>Sprites\enemies\hells\hells</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\enemies\hells\hells.xnb</Output>
+      <Time>2013-04-28T23:55:16.7773921-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\elements\cloudsMario.png</Source>
+      <Name>Sprites\elements\cloudsMario</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\elements\cloudsMario.xnb</Output>
+      <Time>2013-04-28T16:53:55.5557209-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\levels\Level6Graphics\level6.png</Source>
+      <Name>Sprites\GUI\levels\Level6Graphics\level6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\levels\Level6Graphics\level6.xnb</Output>
+      <Time>2013-04-29T00:27:21.8115679-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\shopScreen\imageLevel6.png</Source>
+      <Name>Sprites\GUI\shopScreen\imageLevel6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\shopScreen\imageLevel6.xnb</Output>
+      <Time>2013-04-28T23:27:16.0500519-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\levels\bgPreGame6.png</Source>
+      <Name>Sprites\GUI\levels\bgPreGame6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\levels\bgPreGame6.xnb</Output>
+      <Time>2013-04-29T03:21:52.5932798-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\elements\cloudsMario2.png</Source>
+      <Name>Sprites\elements\cloudsMario2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\elements\cloudsMario2.xnb</Output>
+      <Time>2013-04-28T23:28:13.7604524-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\enemies\goomba\goomba.png</Source>
+      <Name>Sprites\enemies\goomba\goomba</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\enemies\goomba\goomba.xnb</Output>
+      <Time>2013-04-29T00:20:24.9411409-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\enemies\cloudEye\cloudEye.png</Source>
+      <Name>Sprites\enemies\cloudEye\cloudEye</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\enemies\cloudEye\cloudEye.xnb</Output>
+      <Time>2013-04-29T00:34:14.0707897-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\rufus1\ryufus\ryufus.png</Source>
+      <Name>Sprites\rufus1\ryufus\ryufus</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\rufus1\ryufus\ryufus.xnb</Output>
+      <Time>2013-04-29T03:09:15.3944093-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\shopScreen\ryufus.png</Source>
+      <Name>Sprites\GUI\shopScreen\ryufus</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\shopScreen\ryufus.xnb</Output>
+      <Time>2013-04-29T03:11:32.9271124-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\shopScreen\ryufusLarge.png</Source>
+      <Name>Sprites\GUI\shopScreen\ryufusLarge</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\shopScreen\ryufusLarge.xnb</Output>
+      <Time>2013-04-29T03:11:44.8036276-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\effects\screenFX\screeneffectMag.png</Source>
+      <Name>Sprites\effects\screenFX\screeneffectMag</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\effects\screenFX\screeneffectMag.xnb</Output>
+      <Time>2013-05-04T12:53:59.0673244-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\effects\screenFX\screeneffectPlus.png</Source>
+      <Name>Sprites\effects\screenFX\screeneffectPlus</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\effects\screenFX\screeneffectPlus.xnb</Output>
+      <Time>2013-05-04T12:50:10.2823846-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\commingSoon.png</Source>
+      <Name>Sprites\GUI\commingSoon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\commingSoon.xnb</Output>
+      <Time>2013-05-04T14:17:00.9272569-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\proonly.png</Source>
+      <Name>Sprites\GUI\proonly</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\proonly.xnb</Output>
+      <Time>2013-05-04T14:17:36.7648525-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\helpscreen.png</Source>
+      <Name>Sprites\GUI\helpscreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\helpscreen.xnb</Output>
+      <Time>2013-05-04T15:19:22.9665725-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\helpButton\infoButton.png</Source>
+      <Name>Sprites\GUI\helpButton\infoButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\helpButton\infoButton.xnb</Output>
+      <Time>2013-05-04T15:29:45.5371598-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\helpButton\infoButton0001.png</Source>
+      <Name>Sprites\GUI\helpButton\infoButton0001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\helpButton\infoButton0001.xnb</Output>
+      <Time>2013-05-04T15:28:54.8426788-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\helpButton\infoButton0002.png</Source>
+      <Name>Sprites\GUI\helpButton\infoButton0002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\helpButton\infoButton0002.xnb</Output>
+      <Time>2013-05-04T15:28:54.9677142-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\walkJumpXML.xml</Source>
+      <Name>Sprites\walkJumpXML</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\walkJumpXML.xnb</Output>
+      <Time>2013-03-19T16:56:56-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\mushrooms\bolinha\bolinhaXML.xml</Source>
+      <Name>Sprites\mushrooms\bolinha\bolinhaXML</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\mushrooms\bolinha\bolinhaXML.xnb</Output>
+      <Time>2013-03-25T16:28:38-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\enemies\bomb1\bomb1XML.xml</Source>
+      <Name>Sprites\enemies\bomb1\bomb1XML</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\enemies\bomb1\bomb1XML.xnb</Output>
+      <Time>2013-03-26T15:46:16-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\mushrooms\star\starXML.xml</Source>
+      <Name>Sprites\mushrooms\star\starXML</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\mushrooms\star\starXML.xnb</Output>
+      <Time>2013-04-04T10:28:38-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\rufus1\normalRufus\normalRufusXML.xml</Source>
+      <Name>Sprites\rufus1\normalRufus\normalRufusXML</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\rufus1\normalRufus\normalRufusXML.xnb</Output>
+      <Time>2013-03-25T20:45:56-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\rufus1\rufusSuperman\rufusSupermanXML.xml</Source>
+      <Name>Sprites\rufus1\rufusSuperman\rufusSupermanXML</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\rufus1\rufusSuperman\rufusSupermanXML.xnb</Output>
+      <Time>2013-03-26T14:19:14-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\mushrooms\bolinhaVermelha\bolinhaVermelhaXML.xml</Source>
+      <Name>Sprites\mushrooms\bolinhaVermelha\bolinhaVermelhaXML</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\mushrooms\bolinhaVermelha\bolinhaVermelhaXML.xnb</Output>
+      <Time>2013-03-26T15:45:48-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\effects\getItem1\getItemXML.xml</Source>
+      <Name>Sprites\effects\getItem1\getItemXML</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\effects\getItem1\getItemXML.xnb</Output>
+      <Time>2013-03-27T10:01:00-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\effects\getStar\FXStarXML.xml</Source>
+      <Name>Sprites\effects\getStar\FXStarXML</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\effects\getStar\FXStarXML.xnb</Output>
+      <Time>2013-03-27T10:56:36-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\effects\getBolinha\FXBolinhaXML.xml</Source>
+      <Name>Sprites\effects\getBolinha\FXBolinhaXML</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\effects\getBolinha\FXBolinhaXML.xnb</Output>
+      <Time>2013-03-27T11:13:26-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\effects\fall\FXFallXML.xml</Source>
+      <Name>Sprites\effects\fall\FXFallXML</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\effects\fall\FXFallXML.xnb</Output>
+      <Time>2013-03-27T11:38:54-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\enemies\berryBomb\berryBombXML.xml</Source>
+      <Name>Sprites\enemies\berryBomb\berryBombXML</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\enemies\berryBomb\berryBombXML.xnb</Output>
+      <Time>2013-04-28T23:56:20.0375048-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\effects\impact\FXImpactXML.xml</Source>
+      <Name>Sprites\effects\impact\FXImpactXML</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\effects\impact\FXImpactXML.xnb</Output>
+      <Time>2013-03-27T15:02:46-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\defaultButton\shapeButtonXML.xml</Source>
+      <Name>Sprites\GUI\defaultButton\shapeButtonXML</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\defaultButton\shapeButtonXML.xnb</Output>
+      <Time>2013-04-01T10:03:56-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\effects\touch\FXTouchXML.xml</Source>
+      <Name>Sprites\effects\touch\FXTouchXML</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\effects\touch\FXTouchXML.xnb</Output>
+      <Time>2013-04-02T17:49:30-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\effects\show\FXShowXML.xml</Source>
+      <Name>Sprites\effects\show\FXShowXML</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\effects\show\FXShowXML.xnb</Output>
+      <Time>2013-04-02T18:43:58-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\mushrooms\bolinhaQuicante\quickBolinhaXML.xml</Source>
+      <Name>Sprites\mushrooms\bolinhaQuicante\quickBolinhaXML</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\mushrooms\bolinhaQuicante\quickBolinhaXML.xnb</Output>
+      <Time>2013-04-04T10:40:24-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\readyButton\readyButtonXML.xml</Source>
+      <Name>Sprites\GUI\readyButton\readyButtonXML</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\readyButton\readyButtonXML.xnb</Output>
+      <Time>2013-04-06T11:50:50-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\locationButton\locationButtonXML.xml</Source>
+      <Name>Sprites\GUI\locationButton\locationButtonXML</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\locationButton\locationButtonXML.xnb</Output>
+      <Time>2013-04-06T11:59:18-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\arrowButton\arrowButtonXML.xml</Source>
+      <Name>Sprites\GUI\arrowButton\arrowButtonXML</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\arrowButton\arrowButtonXML.xnb</Output>
+      <Time>2013-04-06T12:04:00-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\backToGameButton\backToGameButtonXML.xml</Source>
+      <Name>Sprites\GUI\backToGameButton\backToGameButtonXML</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\backToGameButton\backToGameButtonXML.xnb</Output>
+      <Time>2013-04-06T12:33:10-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\homeButton\homeButtonXML.xml</Source>
+      <Name>Sprites\GUI\homeButton\homeButtonXML</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\homeButton\homeButtonXML.xnb</Output>
+      <Time>2013-04-06T12:43:30-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\pauseButton\pauseButtonXML.xml</Source>
+      <Name>Sprites\GUI\pauseButton\pauseButtonXML</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\pauseButton\pauseButtonXML.xnb</Output>
+      <Time>2013-04-06T12:44:00-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\playButton\playGameButtonXML.xml</Source>
+      <Name>Sprites\GUI\playButton\playGameButtonXML</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\playButton\playGameButtonXML.xnb</Output>
+      <Time>2013-04-06T12:44:28-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\soundButton\soundButtonXML.xml</Source>
+      <Name>Sprites\GUI\soundButton\soundButtonXML</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\soundButton\soundButtonXML.xnb</Output>
+      <Time>2013-04-06T12:45:04-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\playButtonNew\playButtonNewXML.xml</Source>
+      <Name>Sprites\GUI\playButtonNew\playButtonNewXML</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\playButtonNew\playButtonNewXML.xnb</Output>
+      <Time>2013-04-06T13:08:54-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\shopButton\shopButtonXML.xml</Source>
+      <Name>Sprites\GUI\shopButton\shopButtonXML</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\shopButton\shopButtonXML.xnb</Output>
+      <Time>2013-04-06T13:09:26-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\mushrooms\bolinhaVoadora\flyingBolinhaXML.xml</Source>
+      <Name>Sprites\mushrooms\bolinhaVoadora\flyingBolinhaXML</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\mushrooms\bolinhaVoadora\flyingBolinhaXML.xnb</Output>
+      <Time>2013-04-07T20:25:38-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\mushrooms\magnetic\magneticXML.xml</Source>
+      <Name>Sprites\mushrooms\magnetic\magneticXML</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\mushrooms\magnetic\magneticXML.xnb</Output>
+      <Time>2013-04-07T21:34:32-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\mushrooms\rain\rainXML.xml</Source>
+      <Name>Sprites\mushrooms\rain\rainXML</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\mushrooms\rain\rainXML.xnb</Output>
+      <Time>2013-04-07T21:35:02-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\mushrooms\rain2\rain2XML.xml</Source>
+      <Name>Sprites\mushrooms\rain2\rain2XML</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\mushrooms\rain2\rain2XML.xnb</Output>
+      <Time>2013-04-07T23:24:46-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\mushrooms\time\timeXML.xml</Source>
+      <Name>Sprites\mushrooms\time\timeXML</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\mushrooms\time\timeXML.xnb</Output>
+      <Time>2013-04-18T21:05:42-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\effects\screenFX\screeneffectXML.xml</Source>
+      <Name>Sprites\effects\screenFX\screeneffectXML</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\effects\screenFX\screeneffectXML.xnb</Output>
+      <Time>2013-04-18T21:26:02-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\rufus1\fatRufus\fatRufusXML.xml</Source>
+      <Name>Sprites\rufus1\fatRufus\fatRufusXML</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\rufus1\fatRufus\fatRufusXML.xnb</Output>
+      <Time>2013-04-19T20:41:12-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\fbbutton\fbbuttonXML.xml</Source>
+      <Name>Sprites\GUI\fbbutton\fbbuttonXML</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\fbbutton\fbbuttonXML.xnb</Output>
+      <Time>2013-04-19T21:54:14-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\twitterbutton\twitterbuttonXML.xml</Source>
+      <Name>Sprites\GUI\twitterbutton\twitterbuttonXML</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\twitterbutton\twitterbuttonXML.xnb</Output>
+      <Time>2013-04-19T21:54:50-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\statisticButton\statisctisXML.xml</Source>
+      <Name>Sprites\GUI\statisticButton\statisctisXML</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\statisticButton\statisctisXML.xnb</Output>
+      <Time>2013-04-21T21:37:58-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\infoButton\infoButtonXML.xml</Source>
+      <Name>Sprites\GUI\infoButton\infoButtonXML</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\infoButton\infoButtonXML.xnb</Output>
+      <Time>2013-04-21T21:38:52-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\rufus1\rufusMario\rufusMarioXML.xml</Source>
+      <Name>Sprites\rufus1\rufusMario\rufusMarioXML</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\rufus1\rufusMario\rufusMarioXML.xnb</Output>
+      <Time>2013-04-27T17:52:25.7539706-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\enemies\goomba\goombaXML.xml</Source>
+      <Name>Sprites\enemies\goomba\goombaXML</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\enemies\goomba\goombaXML.xnb</Output>
+      <Time>2013-04-29T00:20:24.9461424-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\rufus1\ryufus\ryufusXML.xml</Source>
+      <Name>Sprites\rufus1\ryufus\ryufusXML</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\rufus1\ryufus\ryufusXML.xnb</Output>
+      <Time>2013-04-29T03:09:15.3954081-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\effects\screenFX\screeneffectMagXML.xml</Source>
+      <Name>Sprites\effects\screenFX\screeneffectMagXML</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\effects\screenFX\screeneffectMagXML.xnb</Output>
+      <Time>2013-05-04T12:53:59.0693249-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\effects\screenFX\screeneffectPlusXML.xml</Source>
+      <Name>Sprites\effects\screenFX\screeneffectPlusXML</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\effects\screenFX\screeneffectPlusXML.xnb</Output>
+      <Time>2013-05-04T12:50:10.2873861-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\helpButton\infoButtonXML.xml</Source>
+      <Name>Sprites\GUI\helpButton\infoButtonXML</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\helpButton\infoButtonXML.xnb</Output>
+      <Time>2013-05-04T15:29:45.539159-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\font\Luckiest.spritefont</Source>
+      <Name>Sprites\font\Luckiest</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\font\Luckiest.xnb</Output>
+      <Time>2013-04-11T18:18:38-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GUI\myriad.spritefont</Source>
+      <Name>Sprites\GUI\myriad</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\GUI\myriad.xnb</Output>
+      <Time>2013-03-22T18:23:52-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\font\luckiest\teste.spritefont</Source>
+      <Name>Sprites\font\luckiest\teste</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\Sprites\font\luckiest\teste.xnb</Output>
+      <Time>2013-04-01T10:26:30-03:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\FluffingaDuck.mp3</Source>
+      <Name>sounds\FluffingaDuck</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\sounds\FluffingaDuck.xnb</Output>
+      <Extra>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\sounds\FluffingaDuck.wma</Extra>
+      <Time>2013-04-15T11:11:34-03:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\teste.wma</Source>
+      <Name>sounds\teste</Name>
+      <Importer>WmaImporter</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\sounds\teste.xnb</Output>
+      <Extra>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\sounds\teste.wma</Extra>
+      <Time>2013-04-16T00:27:44-03:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\bup.wav</Source>
+      <Name>sounds\bup</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\sounds\bup.xnb</Output>
+      <Time>2013-04-16T01:00:02-03:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\argh.wav</Source>
+      <Name>sounds\argh</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\sounds\argh.xnb</Output>
+      <Time>2013-04-17T21:33:16-03:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\bupbup.wav</Source>
+      <Name>sounds\bupbup</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\sounds\bupbup.xnb</Output>
+      <Time>2013-04-17T21:32:26-03:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\pshh.wav</Source>
+      <Name>sounds\pshh</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\sounds\pshh.xnb</Output>
+      <Time>2013-04-17T21:35:56-03:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\jump.wav</Source>
+      <Name>sounds\jump</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\sounds\jump.xnb</Output>
+      <Time>2013-04-17T21:42:12-03:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\uhul.wav</Source>
+      <Name>sounds\uhul</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\sounds\uhul.xnb</Output>
+      <Time>2013-04-20T11:14:20-03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{521D2B7A-5043-441F-A5EA-DFFD82E2ADCE}</ContentProjectGUID>
+      <TargetPlatform>WindowsPhone</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2Content\</RootDirectory>
+      <LoggerRootDirectory>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\obj\Windows Phone\Release\</IntermediateDirectory>
+      <OutputDirectory>D:\Rufus\Ultimate\2cats-rufus-wp\WindowsPhoneGame2\WindowsPhoneGame2\bin\Windows Phone\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2012-09-06T14:52:54-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2012-09-06T14:52:54-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2012-09-06T14:52:54-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2012-09-06T14:52:54-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2012-09-06T14:52:54-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2012-09-06T14:52:54-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-11-08T00:39:18.4757558-02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+<Asset Type="System.Collections.Generic.Dictionary[System.String, Microsoft.Xna.Framework.Rectangle]">
+<Item><Key>ryufus0001</Key><Value>0 0 85 88</Value></Item>
+<Item><Key>ryufus0002</Key><Value>86 0 85 88</Value></Item>
+<Item><Key>ryufus0003</Key><Value>0 89 85 88</Value></Item>
+<Item><Key>ryufus0004</Key><Value>86 89 85 88</Value></Item>
+<Item><Key>ryufus0005</Key><Value>172 0 85 88</Value></Item>
+<Item><Key>ryufus0006</Key><Value>258 0 85 88</Value></Item>
+<Item><Key>ryufus0007</Key><Value>172 89 85 88</Value></Item>
+<Item><Key>ryufus0008</Key><Value>344 0 85 88</Value></Item>
+<Item><Key>ryufus0009</Key><Value>258 89 85 88</Value></Item>
+<Item><Key>ryufus0010</Key><Value>344 89 85 88</Value></Item>
+<Item><Key>ryufus0011</Key><Value>0 178 85 88</Value></Item>
+<Item><Key>ryufus0012</Key><Value>86 178 85 88</Value></Item>
+<Item><Key>ryufus0013</Key><Value>172 178 85 88</Value></Item>
+<Item><Key>ryufus0014</Key><Value>258 178 85 88</Value></Item>
+<Item><Key>ryufus0015</Key><Value>344 178 85 88</Value></Item>
+</Asset>
+</XnaContent>

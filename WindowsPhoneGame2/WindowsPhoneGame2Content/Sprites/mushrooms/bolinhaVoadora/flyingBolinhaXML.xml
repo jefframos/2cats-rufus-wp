@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+<Asset Type="System.Collections.Generic.Dictionary[System.String, Microsoft.Xna.Framework.Rectangle]">
+<Item><Key>flyingBolinha0001</Key><Value>0 0 63 68</Value></Item>
+<Item><Key>flyingBolinha0002</Key><Value>64 0 63 68</Value></Item>
+<Item><Key>flyingBolinha0003</Key><Value>128 0 63 68</Value></Item>
+<Item><Key>flyingBolinha0004</Key><Value>192 0 63 68</Value></Item>
+<Item><Key>flyingBolinha0005</Key><Value>0 69 63 68</Value></Item>
+<Item><Key>flyingBolinha0006</Key><Value>64 69 63 68</Value></Item>
+<Item><Key>flyingBolinha0007</Key><Value>0 138 63 68</Value></Item>
+<Item><Key>flyingBolinha0008</Key><Value>128 69 63 68</Value></Item>
+<Item><Key>flyingBolinha0009</Key><Value>64 138 63 68</Value></Item>
+<Item><Key>flyingBolinha0010</Key><Value>192 69 63 68</Value></Item>
+<Item><Key>flyingBolinha0011</Key><Value>128 138 63 68</Value></Item>
+<Item><Key>flyingBolinha0012</Key><Value>192 138 63 68</Value></Item>
+<Item><Key>flyingBolinha0013</Key><Value>256 0 63 68</Value></Item>
+</Asset>
+</XnaContent>

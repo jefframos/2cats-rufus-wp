@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+<Asset Type="System.Collections.Generic.Dictionary[System.String, Microsoft.Xna.Framework.Rectangle]">
+<Item><Key>rufusMario0001</Key><Value>0 0 91 84</Value></Item>
+<Item><Key>rufusMario0002</Key><Value>92 0 91 84</Value></Item>
+<Item><Key>rufusMario0003</Key><Value>0 85 91 84</Value></Item>
+<Item><Key>rufusMario0004</Key><Value>0 170 91 84</Value></Item>
+<Item><Key>rufusMario0005</Key><Value>92 85 91 84</Value></Item>
+<Item><Key>rufusMario0006</Key><Value>92 170 91 84</Value></Item>
+<Item><Key>rufusMario0007</Key><Value>184 0 91 84</Value></Item>
+<Item><Key>rufusMario0008</Key><Value>184 85 91 84</Value></Item>
+<Item><Key>rufusMario0009</Key><Value>276 0 91 84</Value></Item>
+<Item><Key>rufusMario0010</Key><Value>184 170 91 84</Value></Item>
+<Item><Key>rufusMario0011</Key><Value>276 85 91 84</Value></Item>
+<Item><Key>rufusMario0012</Key><Value>368 0 91 84</Value></Item>
+<Item><Key>rufusMario0013</Key><Value>276 170 91 84</Value></Item>
+<Item><Key>rufusMario0014</Key><Value>368 85 91 84</Value></Item>
+<Item><Key>rufusMario0015</Key><Value>368 170 91 84</Value></Item>
+</Asset>
+</XnaContent>

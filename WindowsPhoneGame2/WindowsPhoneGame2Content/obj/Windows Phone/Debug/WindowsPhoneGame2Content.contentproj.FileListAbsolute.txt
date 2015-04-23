@@ -1,0 +1,5 @@
+C:\Users\Jeff\Dropbox\WindowsPhone\Hello\WindowsPhoneGame2\WindowsPhoneGame2\WindowsPhoneGame2Content\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\Jeff Ramos\SkyDrive\Documentos\Projects\RufusAndTheMagicMushrooms\WindowsPhoneGame2\WindowsPhoneGame2Content\obj\Windows Phone\Debug\WindowsPhoneGame2Content.contentprojResolveAssemblyReference.cache
+G:\Projects\RufusAndTheMagicMushrooms\WindowsPhoneGame2\WindowsPhoneGame2Content\obj\Windows Phone\Debug\WindowsPhoneGame2Content.contentprojResolveAssemblyReference.cache
+G:\Ultimate\WindowsPhoneGame2\WindowsPhoneGame2Content\obj\Windows Phone\Debug\WindowsPhoneGame2Content.contentprojResolveAssemblyReference.cache
+C:\Users\Jeff Ramos\Documents\Ultimate\WindowsPhoneGame2\WindowsPhoneGame2Content\obj\Windows Phone\Debug\WindowsPhoneGame2Content.contentprojResolveAssemblyReference.cache

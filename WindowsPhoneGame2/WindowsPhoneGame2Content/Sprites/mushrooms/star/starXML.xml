@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+<Asset Type="System.Collections.Generic.Dictionary[System.String, Microsoft.Xna.Framework.Rectangle]">
+<Item><Key>star0001</Key><Value>0 0 66 66</Value></Item>
+<Item><Key>star0002</Key><Value>67 0 66 66</Value></Item>
+<Item><Key>star0003</Key><Value>134 0 66 66</Value></Item>
+<Item><Key>star0004</Key><Value>0 67 66 66</Value></Item>
+<Item><Key>star0005</Key><Value>67 67 66 66</Value></Item>
+<Item><Key>star0006</Key><Value>0 134 66 66</Value></Item>
+<Item><Key>star0007</Key><Value>67 134 66 66</Value></Item>
+<Item><Key>star0008</Key><Value>134 67 66 66</Value></Item>
+<Item><Key>star0009</Key><Value>134 134 66 66</Value></Item>
+<Item><Key>star0010</Key><Value>201 0 66 66</Value></Item>
+</Asset>
+</XnaContent>

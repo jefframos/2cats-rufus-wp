@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+<Asset Type="System.Collections.Generic.Dictionary[System.String, Microsoft.Xna.Framework.Rectangle]">
+<Item><Key>twitterbutton0001</Key><Value>0 0 63 67</Value></Item>
+<Item><Key>twitterbutton0002</Key><Value>64 0 63 67</Value></Item>
+</Asset>
+</XnaContent>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+<Asset Type="System.Collections.Generic.Dictionary[System.String, Microsoft.Xna.Framework.Rectangle]">
+<Item><Key>rain20001</Key><Value>0 0 66 46</Value></Item>
+<Item><Key>rain20002</Key><Value>0 47 66 46</Value></Item>
+</Asset>
+</XnaContent>

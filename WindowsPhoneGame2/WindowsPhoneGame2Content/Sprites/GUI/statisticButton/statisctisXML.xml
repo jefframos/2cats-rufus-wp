@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+<Asset Type="System.Collections.Generic.Dictionary[System.String, Microsoft.Xna.Framework.Rectangle]">
+<Item><Key>statisctis0001</Key><Value>0 0 83 88</Value></Item>
+<Item><Key>statisctis0002</Key><Value>84 0 83 88</Value></Item>
+</Asset>
+</XnaContent>

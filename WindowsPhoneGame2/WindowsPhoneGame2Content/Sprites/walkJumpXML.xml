@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+<Asset Type="System.Collections.Generic.Dictionary[System.String, Microsoft.Xna.Framework.Rectangle]">
+<Item><Key>motion50001</Key><Value>0 0 79 96</Value></Item>
+<Item><Key>motion50002</Key><Value>80 0 79 96</Value></Item>
+<Item><Key>motion50003</Key><Value>160 0 79 96</Value></Item>
+<Item><Key>motion50004</Key><Value>0 97 79 96</Value></Item>
+<Item><Key>motion50005</Key><Value>80 97 79 96</Value></Item>
+<Item><Key>motion50006</Key><Value>160 97 79 96</Value></Item>
+<Item><Key>motion50007</Key><Value>240 0 79 96</Value></Item>
+<Item><Key>motion50008</Key><Value>320 0 79 96</Value></Item>
+<Item><Key>motion50009</Key><Value>240 97 79 96</Value></Item>
+<Item><Key>motion50010</Key><Value>400 0 79 96</Value></Item>
+<Item><Key>motion50011</Key><Value>320 97 79 96</Value></Item>
+<Item><Key>motion50012</Key><Value>400 97 79 96</Value></Item>
+<Item><Key>motion50013</Key><Value>0 194 79 96</Value></Item>
+<Item><Key>motion50014</Key><Value>80 194 79 96</Value></Item>
+<Item><Key>motion50015</Key><Value>160 194 79 96</Value></Item>
+<Item><Key>motion50016</Key><Value>240 194 79 96</Value></Item>
+</Asset>
+</XnaContent>

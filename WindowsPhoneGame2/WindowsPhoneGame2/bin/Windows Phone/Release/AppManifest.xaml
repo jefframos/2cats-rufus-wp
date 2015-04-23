@@ -1,5 +1,7 @@
 ﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="RufusAndTheMagicMushrooms" EntryPointType="WindowsPhoneGame2.Game1" RuntimeVersion="3.0">
   <Deployment.Parts>
     <AssemblyPart x:Name="RufusAndTheMagicMushrooms" Source="RufusAndTheMagicMushrooms.dll" />
+    <AssemblyPart x:Name="OpenXLive.Payment.UIComponent" Source="OpenXLive.Payment.UIComponent.dll" />
+    <AssemblyPart x:Name="OpenXLive" Source="OpenXLive.dll" />
   </Deployment.Parts>
 </Deployment>

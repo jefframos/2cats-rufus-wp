@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+<Asset Type="System.Collections.Generic.Dictionary[System.String, Microsoft.Xna.Framework.Rectangle]">
+<Item><Key>FXTouch0001</Key><Value>0 0 34 31</Value></Item>
+<Item><Key>FXTouch0002</Key><Value>0 32 34 31</Value></Item>
+<Item><Key>FXTouch0003</Key><Value>35 0 34 31</Value></Item>
+<Item><Key>FXTouch0004</Key><Value>35 32 34 31</Value></Item>
+<Item><Key>FXTouch0005</Key><Value>70 0 34 31</Value></Item>
+</Asset>
+</XnaContent>

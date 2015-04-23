@@ -26,7 +26,6 @@ using System.IO.IsolatedStorage;
 using System.IO;
 using RufusAndTheMagicMushrooms.framework.storage;
 using RufusAndTheMagicMushrooms.game;
-
 //using Windows.Storage;
 
 namespace WindowsPhoneGame2
@@ -191,13 +190,13 @@ namespace WindowsPhoneGame2
                 GameModel.rufusModels.AddLast(new RufusModel(".\\Sprites\\GUI\\shopScreen\\superRufus", ".\\Sprites\\GUI\\shopScreen\\superRufusLarge", false, new SuperRufusBehaviour(), 3000, "SUPER RUFUS", "I'M A SUPER HERO"));
                 GameModel.rufusModels.AddLast(new RufusModel(".\\Sprites\\GUI\\shopScreen\\rufusMario", ".\\Sprites\\GUI\\shopScreen\\rufusMarioLarge", false, new MarioBehaviour(), 4500, "PIPEMAN", "IT'S ME, RUFUS"));
                 GameModel.rufusModels.AddLast(new RufusModel(".\\Sprites\\GUI\\shopScreen\\ryufus", ".\\Sprites\\GUI\\shopScreen\\ryufusLarge", false, new RyufusBehaviour(), 7000, "RYUFUS", "SHOLYUUUUUFUS!"));
-                GameModel.rufusModels.AddLast(new RufusModel(".\\Sprites\\GUI\\commingSoon", ".\\Sprites\\GUI\\commingSoon", false, new RyufusBehaviour(), 0, "COMMING", "SHOLYUUUUUFUS!"));
-                GameModel.rufusModels.AddLast(new RufusModel(".\\Sprites\\GUI\\commingSoon", ".\\Sprites\\GUI\\commingSoon", false, new RyufusBehaviour(), 0, "COMMING", "SHOLYUUUUUFUS!"));
-                GameModel.rufusModels.AddLast(new RufusModel(".\\Sprites\\GUI\\commingSoon", ".\\Sprites\\GUI\\commingSoon", false, new RyufusBehaviour(), 0, "COMMING", "SHOLYUUUUUFUS!"));
-                GameModel.rufusModels.AddLast(new RufusModel(".\\Sprites\\GUI\\commingSoon", ".\\Sprites\\GUI\\commingSoon", false, new RyufusBehaviour(), 0, "COMMING", "SHOLYUUUUUFUS!"));
-                GameModel.rufusModels.AddLast(new RufusModel(".\\Sprites\\GUI\\commingSoon", ".\\Sprites\\GUI\\commingSoon", false, new RyufusBehaviour(), 0, "COMMING", "SHOLYUUUUUFUS!"));
-                GameModel.rufusModels.AddLast(new RufusModel(".\\Sprites\\GUI\\commingSoon", ".\\Sprites\\GUI\\commingSoon", false, new RyufusBehaviour(), 0, "COMMING", "SHOLYUUUUUFUS!"));
-                GameModel.rufusModels.AddLast(new RufusModel(".\\Sprites\\GUI\\commingSoon", ".\\Sprites\\GUI\\commingSoon", false, new RyufusBehaviour(), 0, "COMMING", "SHOLYUUUUUFUS!"));
+                //GameModel.rufusModels.AddLast(new RufusModel(".\\Sprites\\GUI\\commingSoon", ".\\Sprites\\GUI\\commingSoon", false, new RyufusBehaviour(), 0, "COMMING", "SHOLYUUUUUFUS!"));
+                //GameModel.rufusModels.AddLast(new RufusModel(".\\Sprites\\GUI\\commingSoon", ".\\Sprites\\GUI\\commingSoon", false, new RyufusBehaviour(), 0, "COMMING", "SHOLYUUUUUFUS!"));
+                //GameModel.rufusModels.AddLast(new RufusModel(".\\Sprites\\GUI\\commingSoon", ".\\Sprites\\GUI\\commingSoon", false, new RyufusBehaviour(), 0, "COMMING", "SHOLYUUUUUFUS!"));
+                //GameModel.rufusModels.AddLast(new RufusModel(".\\Sprites\\GUI\\commingSoon", ".\\Sprites\\GUI\\commingSoon", false, new RyufusBehaviour(), 0, "COMMING", "SHOLYUUUUUFUS!"));
+                //GameModel.rufusModels.AddLast(new RufusModel(".\\Sprites\\GUI\\commingSoon", ".\\Sprites\\GUI\\commingSoon", false, new RyufusBehaviour(), 0, "COMMING", "SHOLYUUUUUFUS!"));
+                //GameModel.rufusModels.AddLast(new RufusModel(".\\Sprites\\GUI\\commingSoon", ".\\Sprites\\GUI\\commingSoon", false, new RyufusBehaviour(), 0, "COMMING", "SHOLYUUUUUFUS!"));
+                //GameModel.rufusModels.AddLast(new RufusModel(".\\Sprites\\GUI\\commingSoon", ".\\Sprites\\GUI\\commingSoon", false, new RyufusBehaviour(), 0, "COMMING", "SHOLYUUUUUFUS!"));
 
                 GameModel.itensModels = new LinkedList<RufusModel>();
                 GameModel.itensModels.AddLast(new RufusModel(".\\Sprites\\mushrooms\\cogumelo3", ".\\Sprites\\mushrooms\\cogumelo3", true, new SmallMushroomBehaviour(), 0, "MUSHROOM", "EAT ME"));
@@ -220,12 +219,12 @@ namespace WindowsPhoneGame2
                 GameModel.levelsModels.AddLast(new RufusModel(".\\Sprites\\GUI\\shopScreen\\imageLevel4", ".\\Sprites\\GUI\\shopScreen\\imageLevel4", false, new HellBehaviour(), 4500, "HOT DUNGEON", "HOT, JUST HOT!"));
                 GameModel.levelsModels.AddLast(new RufusModel(".\\Sprites\\GUI\\shopScreen\\imageLevel5", ".\\Sprites\\GUI\\shopScreen\\imageLevel5", false, new CloudsBehaviour(), 6000, "CLOUDS", "WELCOME TO HEAVEN"));
                 GameModel.levelsModels.AddLast(new RufusModel(".\\Sprites\\GUI\\shopScreen\\imageLevel6", ".\\Sprites\\GUI\\shopScreen\\imageLevel6", false, new PipemanBehaviour(), 7500, "PIPEMAN LAND", "PIPES AND APPLES AND..."));
-                GameModel.levelsModels.AddLast(new RufusModel(".\\Sprites\\GUI\\commingSoon", ".\\Sprites\\GUI\\commingSoon", false, new RyufusBehaviour(), 0, "COMMING", "SHOLYUUUUUFUS!"));
-                GameModel.levelsModels.AddLast(new RufusModel(".\\Sprites\\GUI\\commingSoon", ".\\Sprites\\GUI\\commingSoon", false, new RyufusBehaviour(), 0, "COMMING", "SHOLYUUUUUFUS!"));
-                GameModel.levelsModels.AddLast(new RufusModel(".\\Sprites\\GUI\\commingSoon", ".\\Sprites\\GUI\\commingSoon", false, new RyufusBehaviour(), 0, "COMMING", "SHOLYUUUUUFUS!"));
-                GameModel.levelsModels.AddLast(new RufusModel(".\\Sprites\\GUI\\commingSoon", ".\\Sprites\\GUI\\commingSoon", false, new RyufusBehaviour(), 0, "COMMING", "SHOLYUUUUUFUS!"));
-                GameModel.levelsModels.AddLast(new RufusModel(".\\Sprites\\GUI\\commingSoon", ".\\Sprites\\GUI\\commingSoon", false, new RyufusBehaviour(), 0, "COMMING", "SHOLYUUUUUFUS!"));
-                GameModel.levelsModels.AddLast(new RufusModel(".\\Sprites\\GUI\\commingSoon", ".\\Sprites\\GUI\\commingSoon", false, new RyufusBehaviour(), 0, "COMMING", "SHOLYUUUUUFUS!"));
+                //GameModel.levelsModels.AddLast(new RufusModel(".\\Sprites\\GUI\\commingSoon", ".\\Sprites\\GUI\\commingSoon", false, new RyufusBehaviour(), 0, "COMMING", "SHOLYUUUUUFUS!"));
+                //GameModel.levelsModels.AddLast(new RufusModel(".\\Sprites\\GUI\\commingSoon", ".\\Sprites\\GUI\\commingSoon", false, new RyufusBehaviour(), 0, "COMMING", "SHOLYUUUUUFUS!"));
+                //GameModel.levelsModels.AddLast(new RufusModel(".\\Sprites\\GUI\\commingSoon", ".\\Sprites\\GUI\\commingSoon", false, new RyufusBehaviour(), 0, "COMMING", "SHOLYUUUUUFUS!"));
+                //GameModel.levelsModels.AddLast(new RufusModel(".\\Sprites\\GUI\\commingSoon", ".\\Sprites\\GUI\\commingSoon", false, new RyufusBehaviour(), 0, "COMMING", "SHOLYUUUUUFUS!"));
+                //GameModel.levelsModels.AddLast(new RufusModel(".\\Sprites\\GUI\\commingSoon", ".\\Sprites\\GUI\\commingSoon", false, new RyufusBehaviour(), 0, "COMMING", "SHOLYUUUUUFUS!"));
+                //GameModel.levelsModels.AddLast(new RufusModel(".\\Sprites\\GUI\\commingSoon", ".\\Sprites\\GUI\\commingSoon", false, new RyufusBehaviour(), 0, "COMMING", "SHOLYUUUUUFUS!"));
             }
             else
             {
